@@ -5,7 +5,7 @@ ApexWallet is a sleek, dark-themed personal finance dashboard built with **React
 ![ApexWallet Dashboard Screenshot](https://via.placeholder.com/1200x675.png?text=ApexWallet+Dashboard+Preview)
 
 ## 🚀 Live Demo
-🔗 **[View Live Application](https://your-demo-link.vercel.app)** *(Replace with your Netlify/Vercel link)*
+🔗 **[View Live Application](https://apex-wallet.vercel.app/)** 
 
 ---
 
