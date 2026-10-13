@@ -32,4 +32,4 @@ ApexWallet is a sleek, dark-themed personal finance dashboard built with **React
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/apexwallet-dashboard.git](https://github.com/yourusername/apexwallet-dashboard.git)
+git clone https://github.com/Gerrard-Elibe/apexwallet-dashboard.git
